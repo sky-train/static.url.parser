@@ -1,0 +1,23 @@
+{
+  "name": "static.url.parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SklyarovYura/static.url.parser.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SklyarovYura/static.url.parser/issues"
+  },
+  "homepage": "https://github.com/SklyarovYura/static.url.parser#readme",
+  "dependencies": {
+    "html-tableify": "0.0.2"
+  }
+}
